@@ -33,9 +33,9 @@ export default function Hero() {
             <div className="search-bar flexCenter">
               <HiLocationMarker color="var(--blue)" size={25}/>
             <input type="text" />
-            <button className="button">Search</button>
+            <button className="button"> <span>Search</span> </button>
             </div>
-
+                  
             <div className="flexCenter stats ">
                 <div className="flexColStart stat">
                     <span>
