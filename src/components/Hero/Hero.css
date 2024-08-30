@@ -9,7 +9,7 @@
 .hero-container {
     justify-content: space-around;
     align-items: flex-end;
-    background: red;
+  
   
 }
 /* left-side */
@@ -120,7 +120,7 @@
         outline: none;
     
     } */
-
+/* 
     .search-bar{
         background-color: white;
         border-radius: 5px;
@@ -142,6 +142,6 @@
         color: white;
         margin-right: 80px;
         margin: 0;
-    }
+    } */
 
 }
