@@ -9,6 +9,7 @@
 .hero-container {
     justify-content: space-around;
     align-items: flex-end;
+    background: red;
   
 }
 /* left-side */
